@@ -1,1 +1,3 @@
-# blog_posts
+# Página de um blog
+
+Exercício de CSS do Web Developer Bootcamp da Udemy.
